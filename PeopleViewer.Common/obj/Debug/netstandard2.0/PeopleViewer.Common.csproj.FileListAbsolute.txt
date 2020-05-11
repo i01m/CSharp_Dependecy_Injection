@@ -1,0 +1,17 @@
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.deps.json
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfoInputs.cache
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfo.cs
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\ProjectDevVm\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.deps.json
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfoInputs.cache
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Project\DEVELOPMENT_VM\C#\DependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.pdb
